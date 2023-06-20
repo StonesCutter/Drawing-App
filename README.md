@@ -5,12 +5,7 @@ The application allows the user to draw over a white background or pictures that
 
 Developed using Expo go.
 
-![photo_2023-06-19_19-56-06](https://github.com/StonesCutter/Drawing-App/assets/56195722/e936e786-0edb-4058-ad1a-505fde85d4c6)
-![tutorial1](https://github.com/StonesCutter/Drawing-App/assets/56195722/2aaf622b-d9f4-4683-b29e-a79597dbf2a7)
-![tutorial2](https://github.com/StonesCutter/Drawing-App/assets/56195722/e6c23cf5-ea88-4f98-a623-5b64477ce1c2)
-![tutorial3](https://github.com/StonesCutter/Drawing-App/assets/56195722/97c59a5b-3f97-494b-9183-5ebc052f0e95)
-
-## Libraries used
+# Libraries used
 
 - react-native-signature-canvas
 - react-native-wheel-color-picker
@@ -20,5 +15,13 @@ Developed using Expo go.
 - expo-media-library
 
 and others as well. 
+
+# Some images
+![photo_2023-06-19_19-56-06](https://github.com/StonesCutter/Drawing-App/assets/56195722/e936e786-0edb-4058-ad1a-505fde85d4c6)
+![tutorial1](https://github.com/StonesCutter/Drawing-App/assets/56195722/2aaf622b-d9f4-4683-b29e-a79597dbf2a7)
+![tutorial2](https://github.com/StonesCutter/Drawing-App/assets/56195722/e6c23cf5-ea88-4f98-a623-5b64477ce1c2)
+![tutorial3](https://github.com/StonesCutter/Drawing-App/assets/56195722/97c59a5b-3f97-494b-9183-5ebc052f0e95)
+
+
 
 
